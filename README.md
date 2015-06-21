@@ -1,4 +1,4 @@
-# AUEB assignments for AUEB Big Data Engineering
+# AUEB assignments for Engineering Big Data Systems
 
 Article : Statistical Data Presentation using JavaScript tool 
 
@@ -20,7 +20,8 @@ The open source frameworks being used are :
 (3) D3 (v.3.0.4), see http://d3js.org/, under BSD License
 
 (4) LibreOffice, see https://www.libreoffice.org/ ,under GNU LGPLv3
-****
+
+***
 The software provides a dropdown interaction to present statistical charts for the following categories for the period 
 of 2001-2014 in Q
 
